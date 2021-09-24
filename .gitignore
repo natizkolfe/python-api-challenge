@@ -1,6 +1,22 @@
 # Byte-compiled / optimized / DLL files
-api_kepys.py
-31128ac94912465441d07487b68d819c
+# Adding config.py file.
+api_key.py
+g_key.py
+# Adding these files per homework assignment
+VacationPy.ipynb.ipynb
+weatherPy.ipynb
+# .DS_Store
+.DS_Store
+# Editor
+.vscode
+# PySpark
+metastore/
+metastore_db/
+# Byte-compiled / optimized / DLL files
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*$py.class
 __pycache__/
 *.py[cod]
 *$py.class
